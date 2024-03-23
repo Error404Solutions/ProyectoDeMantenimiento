@@ -224,3 +224,5 @@ export = (ctx: Hexo) => {
 
   return Post;
 };
+
+}
